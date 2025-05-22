@@ -1,2 +1,3 @@
 # JavaScript-Repo
-<a href="intro.md">Chapter One</a>
+<a href="L-Js/ch_1
+/intro.md">Chapter One</a>
